@@ -35,6 +35,8 @@ A screen almost everyone passes is a participation trophy. That failure rate is 
 
 10 engineers are verified and live right now.
 
+The full data, the method, and an honest account of what we cannot yet measure: **[screening-benchmark](https://github.com/ShawSilicon/screening-benchmark)**
+
 ---
 
 ## Why this is not an opinion
