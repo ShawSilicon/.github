@@ -10,18 +10,17 @@ We replaced the document with evidence.
 
 ## How it works
 
-Engineers complete a four-stage technical screen in their own specialization:
+Engineers complete a three-round technical screen in their own specialization:
 
-| Stage | What it tests |
+| Round | What it tests |
 |---|---|
-| **1. Conceptual depth** | Specialization fundamentals a resume cannot carry |
-| **2. Work sample** | Applied evidence in their own discipline |
-| **3. Design diagram** | They draw it, which exposes structural reasoning |
-| **4. Live defense** | They defend that design under questioning, on camera |
+| **1. Concepts** | Specialization fundamentals a resume cannot carry |
+| **2. Work sample** | Applied evidence in their own discipline, including the design they draw |
+| **3. Recorded defence** | They defend that design under questioning, on camera |
 
-Scored against a fixed rubric. A senior FPGA engineer reads every final defense. The output is an anonymized scorecard, so employers see scored evidence before they see a name and before they spend a principal engineer's afternoon.
+Scored against a fixed rubric across five dimensions. A senior FPGA engineer reviews every recorded defence. The output is an anonymized scorecard, so employers see scored evidence before they see a name and before they spend a principal engineer's afternoon.
 
-380 questions across 13 specializations, from FPGA and ASIC RTL through verification, formal, physical design, DFT, analog and mixed-signal, embedded, AI accelerator architecture and quantum.
+300 questions across the 9 specializations engineers can select: FPGA, ASIC/RTL, verification and UVM, formal verification, physical design, analog and mixed-signal, embedded hardware, AI chip architecture, and DFT.
 
 **Engineers pay nothing. Ever.**
 
